@@ -3,7 +3,7 @@
 ## Tech Stack
 ![Static Badge](https://img.shields.io/badge/LINUX-%23FCC624)      
 ![Static Badge](https://img.shields.io/badge/JAVA-%23007396)
-![Static Badge](https://img.shields.io/badge/SPRING-%236DB33F)
+![Static Badge](https://img.shields.io/badge/SPRING-%236DB33F)   
 ![Static Badge](https://img.shields.io/badge/MYSQL-%234479A1)  
 ![Static Badge](https://img.shields.io/badge/DOCKER-%232496ED)
 ![Static Badge](https://img.shields.io/badge/K8S-%23326CE5)   
