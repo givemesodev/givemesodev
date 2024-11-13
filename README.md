@@ -1,4 +1,4 @@
-## 합리적인 결정을 할 수 있는 엔지니어 김휘소입니다:)
+## 기술 역량과 소통을 기반으로 최적의 성과를 내는 엔지니어입니다:)
 
 ## Tech Stack
 ![Static Badge](https://img.shields.io/badge/LINUX-%23FCC624)      
